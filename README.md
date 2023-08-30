@@ -1,9 +1,9 @@
 
 #  Teoria de Controle I | Python
 
-Projeto básico para descobrir os resíduos, pólos e resto. 
+Projetos para o melhor compreendimento da teoria de controle
 
- |Foi necessário a instalação da biblioteca control.|
+ Foi necessário a instalação da biblioteca control em todos os códigos.
 
 
 
